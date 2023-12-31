@@ -1,0 +1,15 @@
+/Users/cristinanemcea/Conversie/bin/Debug/net7.0/Conversii
+/Users/cristinanemcea/Conversie/bin/Debug/net7.0/Conversii.deps.json
+/Users/cristinanemcea/Conversie/bin/Debug/net7.0/Conversii.runtimeconfig.json
+/Users/cristinanemcea/Conversie/bin/Debug/net7.0/Conversii.dll
+/Users/cristinanemcea/Conversie/bin/Debug/net7.0/Conversii.pdb
+/Users/cristinanemcea/Conversie/obj/Debug/net7.0/Conversii.csproj.AssemblyReference.cache
+/Users/cristinanemcea/Conversie/obj/Debug/net7.0/Conversii.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cristinanemcea/Conversie/obj/Debug/net7.0/Conversii.AssemblyInfoInputs.cache
+/Users/cristinanemcea/Conversie/obj/Debug/net7.0/Conversii.AssemblyInfo.cs
+/Users/cristinanemcea/Conversie/obj/Debug/net7.0/Conversii.csproj.CoreCompileInputs.cache
+/Users/cristinanemcea/Conversie/obj/Debug/net7.0/Conversii.dll
+/Users/cristinanemcea/Conversie/obj/Debug/net7.0/refint/Conversii.dll
+/Users/cristinanemcea/Conversie/obj/Debug/net7.0/Conversii.pdb
+/Users/cristinanemcea/Conversie/obj/Debug/net7.0/Conversii.genruntimeconfig.cache
+/Users/cristinanemcea/Conversie/obj/Debug/net7.0/ref/Conversii.dll
