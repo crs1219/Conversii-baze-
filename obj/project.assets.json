@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/cristinanemcea/Conversie/Conversii.csproj",
+      "projectUniqueName": "/Users/cristinanemcea/GITHUB REPOSITORYS/Conversii-baze-/Conversii.csproj",
       "projectName": "Conversii",
-      "projectPath": "/Users/cristinanemcea/Conversie/Conversii.csproj",
+      "projectPath": "/Users/cristinanemcea/GITHUB REPOSITORYS/Conversii-baze-/Conversii.csproj",
       "packagesPath": "/Users/cristinanemcea/.nuget/packages/",
-      "outputPath": "/Users/cristinanemcea/Conversie/obj/",
+      "outputPath": "/Users/cristinanemcea/GITHUB REPOSITORYS/Conversii-baze-/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/cristinanemcea/.nuget/NuGet/NuGet.Config"
